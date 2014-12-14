@@ -2388,6 +2388,7 @@ http://*69.65.19.160
 *.google.com/*
 *.google.com.hk/*
 *.googlecode.com/*
+*.googleapis.com/*
 
 [regexp]
 ^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?darpa\.mil
