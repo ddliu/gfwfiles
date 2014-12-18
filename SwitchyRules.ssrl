@@ -5,6 +5,14 @@
 #BEGIN
 
 [wildcard]
+
+*.google.com/*
+*.google.com.hk/*
+*.googlecode.com/*
+*.googleapis.com/*
+*.gravatar.com/*
+*gist.github.com/*
+
 http://*hulu.com
 http://*huluim.com
 http://*.pandora.tv
@@ -2385,11 +2393,6 @@ http://*174.142.105.153
 http://*69.65.19.160
 !@https://autoproxy.org*
 !@http://ime.baidu.jp*
-*.google.com/*
-*.google.com.hk/*
-*.googlecode.com/*
-*.googleapis.com/*
-*.gravatar.com/*
 
 [regexp]
 ^[\w\-]+:\/+(?!\/)(?:[^\/]+\.)?darpa\.mil

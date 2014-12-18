@@ -4,6 +4,7 @@
 var proxy = "SOCKS5 127.0.0.1:9999;SOCKS 127.0.0.1:9999;DIRECT;";
 
 var domains = {
+  "gist.github.com": 1,
   "gimpshop.com": 1, 
   "directcreative.com": 1, 
   "speedpluss.org": 1, 
