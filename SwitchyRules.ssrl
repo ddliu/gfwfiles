@@ -12,6 +12,7 @@
 *.googleapis.com/*
 *.gravatar.com/*
 *gist.github.com/*
+*travis-ci.org/*
 
 http://*hulu.com
 http://*huluim.com
