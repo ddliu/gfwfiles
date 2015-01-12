@@ -13,6 +13,7 @@
 *.gravatar.com/*
 *gist.github.com/*
 *travis-ci.org/*
+*.ycombinator.com/*
 
 http://*hulu.com
 http://*huluim.com
